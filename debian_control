@@ -1,0 +1,8 @@
+Package: helloworld
+Section: main
+Priority: optional
+Homepage: https://github.com/hephaisto/helloworld
+Description: Example program
+Maintainer: hephaisto <hephaisto@users.noreply.github.com>
+Architecture: amd64
+Version: @version@
